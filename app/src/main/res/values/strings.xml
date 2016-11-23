@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="txtTitle">Enter Amount:</string>
+    <string name="btnConvert">Convert</string>
+    <string name="txtHeading">Currency Converter</string>
+    <string name="txtResult">Test</string>
+    <string name="hintId">Enter Amount:</string>
+    <string-array name="txtGroup1">
+        <item>USD</item>
+        <item>GBP</item>
+        <item>CAD</item>
+        <item>EUR</item>
+        <item>JPY</item>
+    </string-array>
+    <string-array name="txtGroup2">
+        <item>USD</item>
+        <item>GBP</item>
+        <item>CAD</item>
+        <item>EUR</item>
+        <item>JPY</item>
+    </string-array>
+</resources>
